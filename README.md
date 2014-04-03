@@ -1,3 +1,7 @@
+## Note
+This is the readme that came from the repo that contains the template project that I used to get my project set up.
+
+
 libgdx-gradle-template
 ======================
 
